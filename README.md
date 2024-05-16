@@ -1,5 +1,5 @@
 # SerialGrapher
-*[Code onboard Kyushu University's Phoenix LR unmanned aircraft for 2023 Aeromagnetic Survey in Ethiopea]*
+*[Code onboard Kyushu University's Phoenix LR unmanned aircraft for 2023 Aeromagnetic Survey in Afar, Ethiopia]*
 
 Real-time graph plotter based on keyword data received from serial communication.
 
@@ -15,12 +15,12 @@ For real serial communication with a real modem:
 3. Start the modem and serial communication.
 
 For virtual serial communication for testing and debugging purposes:
-1. Open a pair of virtual ports on your PC.
-  This can be done via a third-party software such as VSPD.
-  In VSPD, open a pair of virtual serial ports.
-  Select the pair and click the "Edit" button.
-  Select the port names. In the code's sample case, "COM29" and "COM30" were used.
-  Check "Enable stricr baudrate emulation".
+1. Open a pair of virtual ports on your PC.<br>
+  This can be done via a third-party software such as VSPD.<br>
+  In VSPD, open a pair of virtual serial ports.<br>
+  Select the pair and click the "Edit" button.<br>
+  Select the port names. In the code's sample case, "COM29" and "COM30" were used.<br>
+  Check "Enable strict baudrate emulation".<br>
   Click "Save".
 2. Rename the sample text file you want to test read to "sample.txt".
 3. Place sample.txt into the same directory as serial_rx.py.
