@@ -3,6 +3,10 @@
 
 Real-time graph plotter based on keyword data received from serial communication.
 
+
+https://github.com/lattecatte/SerialGrapher/assets/154484150/ed7abfde-140b-40aa-817d-8f19eded9e3e
+
+
 ## Features
 - Filters a keyword and plots the keyword data in real-time using matplotlib animation
 - Shows cumulative data and interval data plots
