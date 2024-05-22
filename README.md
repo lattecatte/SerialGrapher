@@ -8,9 +8,9 @@ https://github.com/lattecatte/SerialGrapher/assets/154484150/ed7abfde-140b-40aa-
 
 
 ## Features
-- Filters a keyword and plots the keyword data in real-time using matplotlib animation
-- Shows cumulative data and interval data plots
-- Shows maximum, minimum, average, and current values
+- Filters a keyword and plots the keyword data in real-time using matplotlib animation.
+- Shows cumulative data and interval data plots.
+- Shows maximum, minimum, average, and current values.
 
 ## Instructions
 For real serial communication with a real modem:
